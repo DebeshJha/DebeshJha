@@ -7,7 +7,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Gastrointestinal Diesease detection, classification and segmentation
 - 👯 I’m looking to collaborate on Gastrointestinal Diesease detection, classification and segmentation
 
-
-- 👯 I’m looking self-motivated researcher (http://debeshjha.com/) . 
 [Debesh GitHub stats](https://github.com/DebeshJha)  
 
